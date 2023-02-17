@@ -129,9 +129,9 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 **(g)  Transition Period for Trading Platforms.**  No crypto asset trading platform shall be subject to the requirements of Section 21 of the Securities Act (Ontario) due to activity related to the trading of Tokens subject to a determination pursuant to paragraph (f)(iii) of this section, provided that the trading platform prohibits such trading immediately upon such determination. 
 
-**(h)  Tokens Previously Sold.**  An Initial Development Team that prior to the effective date of this rule sold Tokens pursuant to a valid exemption from registration or sold in violation of Section 53 of the Securities Act (Ontario) as determined in a Ontario Securities Commission order pursuant to Section 127 of the Securities Act of 1933 that does not identify any other violations of the federal securities laws may rely on this section if the conditions of paragraph (a) are satisfied.  The notice of reliance required by paragraph (c) of this section must be filed as soon as practicable. 
+**(h)  Tokens Previously Sold.**  An Initial Development Team that prior to the effective date of this rule sold Tokens pursuant to a valid exemption from registration or sold in violation of Section 53 of the Securities Act (Ontario) as determined in a Ontario Securities Commission order pursuant to Section 127 of the Securities Act (Ontario) that does not identify any other violations of the federal securities laws may rely on this section if the conditions of paragraph (a) are satisfied.  The notice of reliance required by paragraph (c) of this section must be filed as soon as practicable. 
 
-**(i)  Definition of Qualified Purchaser.**  For purposes of Section 18(b)(3) of the Securities Act of 1933, a “qualified purchaser” includes any person to whom Tokens are offered or sold in reliance on paragraph (a) of this section.
+**(i)  Definition of Qualified Purchaser.**  For purposes of Section 73.4 of the Securities Act (Ontario), an “private issuer” includes any person whom offers Tokens for sale in reliance on paragraph (a) of this section.
 
 **(j)  Disqualifications.**  No exemption under this section is available for the Tokens of any Initial Development Team if it or its individual members would be subject to disqualification under Rule 506(d).
 

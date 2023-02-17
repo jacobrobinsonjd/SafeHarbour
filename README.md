@@ -1,25 +1,25 @@
-# SafeHarbor2.0
-Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
+# SafeHarbour
+Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption for Tokens.
 
-# Proposed Safe Harbor – Time-limited Exemption for Tokens.
+# Proposed Safe Harbour – Time-limited Exemption for Tokens.
 
-***This potential safe harbor is not a rule, regulation, or statement of the Securities and Exchange Commission.  It cannot be relied on.  It does not necessarily reflect the views of the Securities and Exchange Commission or my fellow Commissioners.***
+***This potential safe harbour is not a rule, regulation, or statement from any securities regulatory body in Canada.  It cannot be relied on.  It is a personal fork of the Github proposal submitted by Commissioner Peirce (CommissionerPeirce/SafeHarbor2.0:main). This version is forked to suit Canadian securities laws, namely the Securities Act (Ontario). Information from prior forks (https://github.com/LeXpunK-Army/SafeHarbor2.0) were helpful and used in drafting. 
 
-## Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
+## Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption for Tokens.
 
 ***Preliminary Notes:***
 
 1.  *The analysis of whether a digital asset is offered or sold as a security is not static and does not strictly inhere to the digital asset.  A Token may be offered and sold initially as a security because it is wrapped in a transaction involving an investment contract, but the Token may later be offered and sold outside of an investment contract.  For example, sales of a particular Token likely would not constitute sales of an investment contract if purchasers could no longer reasonably expect a person or group to carry out the essential managerial or entrepreneurial efforts.*
 
-*However, for a network to mature into a functional or decentralized network that is not dependent upon a single person or group to carry out the essential managerial or entrepreneurial efforts, the Tokens must be distributed to and freely tradeable by potential users, programmers, and participants in the network.  The application of the federal securities laws to the primary distribution of Tokens and secondary transactions frustrates the network’s ability to achieve maturity and prevents Tokens sold as a security from functioning as non-securities on the network.*
+*However, for a network to mature into a functional or decentralized network that is not dependent upon a single person or group to carry out the essential managerial or entrepreneurial efforts, the Tokens must be distributed to and freely tradeable by potential users, programmers, and participants in the network.  The application of the federal securities laws to the primary distribution of Tokens and secondary transactions frustrates the network’s ability to achieve maturity and prevents Tokens sold as a security from functioning as non-securities on the network. It's a catch-22.* 
 
-*Accordingly, this safe harbor is intended to provide Initial Development Teams with a three-year time period within which they can facilitate participation in, and the continued development of, a functional or decentralized network, exempt from the registration provisions of the federal securities laws so long as certain conditions are met.  The safe harbor is designed to protect Token purchasers by requiring disclosures tailored to the needs of the purchasers and preserving the application of the anti-fraud provisions of the federal securities laws to Token distributions by an Initial Development Team relying on the safe harbor.*
+*Accordingly, this safe harbour is intended to provide Initial Development Teams with a three-year time period within which they can facilitate participation in, and the continued development of, a functional or decentralized network, exempt from the registration provisions of the federal securities laws so long as certain conditions are met.  The safe harbour is designed to protect Token purchasers by requiring disclosures tailored to the needs of the purchasers and preserving the application of the anti-fraud provisions of the federal securities laws to Token distributions by an Initial Development Team relying on the safe harbor.*
 
 *By the conclusion of the three-year period, the Initial Development Team must determine whether Token transactions involve the offer or sale of a security.  Token transactions may not constitute securities transactions if the network has matured to a functioning or decentralized network.  The definition of Network Maturity is intended to provide clarity as to when a Token transaction should no longer be considered a security transaction but the analysis with respect to any particular network will require an evaluation of the particular facts and circumstances.*
 
-2.  *Rule 195 is not an exclusive safe harbor. A person who does not meet all of the applicable conditions of Rule 195 still may claim any other available exemption under the Securities Act of 1933 for the offer and sale of Tokens.*
+2.  *Rule 73.8 is not an exclusive safe harbour. A person who does not meet all of the applicable conditions of Rule 73.8 still may claim any other available exemption under the Securities Act (Ontario)for the offer and sale of Tokens.*
 
-**(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act of 1933 does not apply to any offer, sale, or transaction involving a Token if the following conditions are satisfied by the Initial Development Team, as defined herein.
+**(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act (Ontario) does not apply to any offer, sale, or transaction involving a Token if the following conditions are satisfied by the Initial Development Team, as defined herein.
 
 &ensp; &ensp; (1)  The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens;
 
@@ -33,27 +33,27 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 **(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website.  
 
-&ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbor, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as practicable after the change.
+&ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbour, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as practicable after the change. 
 
 &ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  A text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and confirm transactions.
 
-&ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the network.    
+&ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A description of the steps necessary to independently access, search, and verify the transaction history of the network, such that a non-technical individual could understand the instruction.
 
 &ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purpose of the network, the protocol, and its operation.  At a minimum, such disclosures must include the following:
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process, including the number of Tokens to be issued in an initial allocation, the total number of Tokens to be created, the release schedule for the Tokens, and the total number of Tokens outstanding;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process, including the number of Tokens to be issued in an initial allocation to certain wallets with an explanation and disclosure of the wallet holders, the total number of Tokens to be created, the release schedule for the Tokens, and the total number of Tokens outstanding;
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating or mining Tokens, the process for burning Tokens, the process for validating transactions, and the consensus mechanism;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the protocol; and
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the protocol; 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Sufficient information for a third party to create a tool for verifying the transaction history of the Token (e.g., the blockchain or distributed ledger).
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Sufficient information for a third party to create a tool for verifying the transaction history of the Token (e.g., the blockchain or distributed ledger); and
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A hyperlink to a block explorer.
 
-&ensp; &ensp; &ensp; &ensp; (iv)  *Plan of Development.*  The current state and timeline for the development of the network to show how and when the Initial Development Team intends to achieve Network Maturity.
+&ensp; &ensp; &ensp; &ensp; (iv)  *Plan of Development.*  The current state and timeline for the development of the network to show how and when the Initial Development Team intends to achieve Network Maturity, and how the Inititial Development Team defines Network Maturity.
 
-&ensp; &ensp; &ensp; &ensp; (v)  *Prior Token Sales.*  The date of sale, number of Tokens sold prior to filing a notice of reliance on the safe harbor, any limitations or restrictions on the transferability of Tokens sold, and the type and amount of consideration received.
+&ensp; &ensp; &ensp; &ensp; (v)  *Prior Token Sales.*  The date of sale, number of Tokens sold prior to filing a notice of reliance on the safe harbour, any limitations or restrictions on the transferability of Tokens sold, and the type and amount of consideration received.
 
 &ensp; &ensp; &ensp; &ensp; (vi)  *Initial Development Team and Certain Token Holders.*  Furnish the following information.
 
@@ -69,11 +69,11 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (ix)  *Related Person Transactions.*  A description of any material transaction, or any proposed material transaction, in which the Initial Development Team is a participant and in which any Related Person had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the Related Person, the basis on which the person is a Related Person, and the approximate value of the amount involved in the transaction.  
 
-&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of money.  
+&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of the entire investment.  
 
 &ensp; &ensp; (2)  *Semiannual Disclosures.*  Every six months following the date of filing the notice of reliance, pursuant to paragraph (c) of this section, until the end of the three-year period or a determination that Network Maturity has been reached, whichever occurs first, provide updated information required by paragraph (b)(1)(iv) of this section as of the end of the six-month period.  These updates must be made within 30 calendar days after the end of the semiannual period.  
 
- **(c)  Filing of Notice of Reliance.**  The Initial Development Team must file a notice of reliance on the safe harbor prior to the date of the first Token sold in reliance on the safe harbor.
+ **(c)  Filing of Notice of Reliance.**  The Initial Development Team must file a notice of reliance on the safe harbour prior to the date of the first Token sold in reliance on the safe harbour.
 
 &ensp; &ensp; (1)  The notice of reliance must contain the following information:
 
@@ -85,9 +85,9 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
 
-&ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
+&ensp; &ensp; (2)  A notice of reliance must be filed with the Ontario Securities Commission in electronic format through the Commission’s electronic system for the official filing of documents by public companies and investment funds across Canada (SEDAR) in accordance with SEDAR rules set forth in National Instrument 13-101, Multilateral Instrument 13-102 and the SEDAR Filer Manual published by the Canadian Securities Administrators.
 
-**(d)  Limitation.**  The exemption provided in paragraph (a) of this section does not apply to the provisions of Section 12(a)(2) or Section 17 of the Securities Act of 1933.
+**(d)  Limitation.**  The exemption provided in paragraph (a) of this section does not apply to the provisions of Sections 130.1, 132, 132.1, 134,  [Section 12(a)(2) - Section 12(a)(2) creates liability for any person who offers or sells a security through a prospectus or an oral communication containing a material misrepresentation or omission] or [Section 17 - Section 17 of the 33 Act is an anti-fraud provision applicable to the initial sale or issuance of securities] of the Securities Act (Ontario).
 
 **(e)  Duration of Exemption.**  The relief provided by this section will expire three years from the date the notice of reliance was filed.  
 

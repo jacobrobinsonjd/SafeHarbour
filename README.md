@@ -123,13 +123,13 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Contact information for Token holders to communicate with the Initial Development Team.  
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  A statement acknowledging that the Initial Development team will file a Form 10 to register under Section 53 of the Securities Act (Ontario) the Tokens as a class of securities within 120 days of the filing of the exit report.      
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  A statement acknowledging that the Initial Development team will file a Form 33-109F6 to register under Section 53 of the Securities Act (Ontario) the Tokens as a class of securities within 120 days of the filing of the exit report.      
 
-&ensp; &ensp; (2)  The exit report must be filed with the Commission in electronic format through EDGAR in accordance with EDGAR rules set forth in Regulation S-T.
+&ensp; &ensp; (2)  The exit report must be filed with the Ontario Securities Commission in electronic format through SEDAR in accordance with SEDAR rules set forth in National Instrument 13-101, Multilateral Instrument 13-102 and the SEDAR Filer Manual published by the Canadian Securities Administrators.
 
-**(g)  Transition Period for Trading Platforms.**  No trading platform shall be subject to the requirements of Section 6 of the Exchange Act due to activity related to the trading of Tokens subject to a determination pursuant to paragraph (f)(iii) of this section, provided that the trading platform prohibits such trading within six months of such determination. 
+**(g)  Transition Period for Trading Platforms.**  No crypto asset trading platform shall be subject to the requirements of Section 21 of the Securities Act (Ontario) due to activity related to the trading of Tokens subject to a determination pursuant to paragraph (f)(iii) of this section, provided that the trading platform prohibits such trading immediately upon such determination. 
 
-**(h)  Tokens Previously Sold.**  An Initial Development Team that prior to the effective date of this rule sold Tokens pursuant to a valid exemption from registration or sold in violation of Section 5 of the Securities Act of 1933 as determined in a Commission order pursuant to Section 8A of the Securities Act of 1933 that does not identify any other violations of the federal securities laws may rely on this section if the conditions of paragraph (a) are satisfied.  The notice of reliance required by paragraph (c) of this section must be filed as soon as practicable. 
+**(h)  Tokens Previously Sold.**  An Initial Development Team that prior to the effective date of this rule sold Tokens pursuant to a valid exemption from registration or sold in violation of Section 53 of the Securities Act (Ontario) as determined in a Ontario Securities Commission order pursuant to Section 127 of the Securities Act of 1933 that does not identify any other violations of the federal securities laws may rely on this section if the conditions of paragraph (a) are satisfied.  The notice of reliance required by paragraph (c) of this section must be filed as soon as practicable. 
 
 **(i)  Definition of Qualified Purchaser.**  For purposes of Section 18(b)(3) of the Securities Act of 1933, a “qualified purchaser” includes any person to whom Tokens are offered or sold in reliance on paragraph (a) of this section.
 

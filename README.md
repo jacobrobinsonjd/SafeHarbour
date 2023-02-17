@@ -87,7 +87,7 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Ontario Securities Commission in electronic format through the Commission’s electronic system for the official filing of documents by public companies and investment funds across Canada (SEDAR) in accordance with SEDAR rules set forth in National Instrument 13-101, Multilateral Instrument 13-102 and the SEDAR Filer Manual published by the Canadian Securities Administrators.
 
-**(d)  Limitation.**  The exemption provided in paragraph (a) of this section does not apply to the provisions of Sections 130.1, 132, 132.1, 134,  [Section 12(a)(2) - Section 12(a)(2) creates liability for any person who offers or sells a security through a prospectus or an oral communication containing a material misrepresentation or omission] or [Section 17 - Section 17 of the 33 Act is an anti-fraud provision applicable to the initial sale or issuance of securities] of the Securities Act (Ontario).
+**(d)  Limitation.**  The exemption provided in paragraph (a) of this section does not apply to the provisions of Sections 130.1, 132, 132.1, 134, 138.1, 138.2, 138.3, 138.4, 138.5, 138.6, 138.7 or 126.1, 126.2, 126.3, 126.4 or 127 of the Securities Act (Ontario).
 
 **(e)  Duration of Exemption.**  The relief provided by this section will expire three years from the date the notice of reliance was filed.  
 
@@ -105,7 +105,7 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
  
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  An explanation of how the Initial Development Team’s pre-Network Maturity activities are distinguishable from their ongoing involvement with the network.  The explanation should:
 	
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (1)  Discuss the extent to which the Initial Development Team’s continuing activities are more limited in nature and cannot reasonably be expected uniquely to drive an increase in the value of the Tokens;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (1)  Discuss the extent to which the Initial Development Team’s continuing activities are more limited in nature and cannot reasonably be expected to drive an increase in the value of the Tokens;
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (2)  Confirm that the Initial Development Team has no material information about the network that is not publicly available; and 
 
@@ -113,7 +113,7 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 &ensp; &ensp; &ensp; &ensp; (ii)  If Network Maturity has been reached for a functional network, an analysis by outside counsel must be provided.  The analysis should:
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Describe the holders’ use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network. 
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Describe the use of Tokens for the transmission and storage of value on the network, the participation in an application running on the network, or otherwise in a manner consistent with the utility of the network. 
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Detail how the Initial Development Team’s marketing efforts have been, and will be, focused on the Token’s consumptive use, and not on speculative activity.
 
@@ -123,7 +123,7 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Contact information for Token holders to communicate with the Initial Development Team.  
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  A statement acknowledging that the Initial Development team will file a Form 10 to register under Section 12(g) of the Securities Exchange Act of 1934 the Tokens as a class of securities within 120 days of the filing of the exit report.      
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  A statement acknowledging that the Initial Development team will file a Form 10 to register under Section 53 of the Securities Act (Ontario) the Tokens as a class of securities within 120 days of the filing of the exit report.      
 
 &ensp; &ensp; (2)  The exit report must be filed with the Commission in electronic format through EDGAR in accordance with EDGAR rules set forth in Regulation S-T.
 

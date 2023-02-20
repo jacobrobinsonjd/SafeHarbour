@@ -163,25 +163,21 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 &ensp; &ensp; &ensp; &ensp; (iii)  that does not represent a financial interest in a company, partnership, or fund, including an ownership or debt interest, revenue share, entitlement to any interest or dividend payment.
 
-Proposed Securities Act (Ontario) Section 21.12.  Exemption from the definition of “exchange” under Section 21 of the Act.
+**Proposed Securities Act (Ontario) Section 21.12.  Exemption from the definition of “exchange” under Section 21 of the Act. **
 
-An organization, association, or group of persons shall be exempt from the definition of the term “exchange” to the extent such organization, association, or group of persons constitutes, maintains, or provides a marketplace or facilitates bringing together purchasers and sellers of Tokens satisfying the conditions of Sectoin 73.8 of the Securities Act (Ontario), or otherwise performs with respect to such Tokens the functions commonly performed by a stock exchange as that term is generally understood, but does not take custody of the Tokens of the purchasers or sellers and does not fit within the definition of a Crypto Contract for purposes of establishing the jurisdiction of securities regulators in Ontario.
+An organization, association, or group of persons shall be exempt from the definition of the term “exchange” to the extent such organization, association, or group of persons constitutes, maintains, or provides a marketplace or facilitates bringing together purchasers and sellers of Tokens satisfying the conditions of Sectoin 73.8 of the Securities Act (Ontario), or otherwise performs with respect to such Tokens the functions commonly performed by a stock exchange as that term is generally understood, but does not take custody of the Tokens of the purchasers or sellers and provies instantaneous settlement of exchanges of Tokens, and therefore does not fit within the definition of a Crypto Contract for purposes of establishing the jurisdiction of securities regulators in Ontario.
 
-**Proposed Exchange Act Rule 3a4-2.  Exemption from the definition of “broker” for a person engaged in a Token transaction.**
+**Proposed Securities Act (Ontario) Setion 35(1)4.  Exemption from the registration requirements for a dealer engaged in a Token transaction.**
 
-A person is exempt from the definition of the term “broker” to the extent it engages in the business of effecting transactions in Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for the account of others.
+A person or company is exempt from the requirement to be registered under the Securities Act (Ontario) to act as a dealer when trading in Tokens or acting as an underwriter in respect of Token distributions, to the extent it engages in the business of effecting transactions in Tokens satisfying the conditions of Rule 73.8 of the Securities Act (Ontario) for the account of others.
 
-**Proposed Exchange Act Rule 3a5-4.  Exemption from the definition of “dealer” for a person engaged in a Token transaction.**
+**Proposed Exchange Act Rule .  Exemptions from registration under Section 53 of the Securities Act (Ontario).**
 
-A person is exempt from the definition of the term “dealer” to the extent it engages in the business of buying and selling Tokens satisfying the conditions of Rule 195 of the Securities Act of 1933 for such person’s own account through a broker or otherwise.
-
-**Proposed Exchange Act Rule 12h-1(j).  Exemptions from registration under Section 12(g) of the Act.**
-
-Issuers shall be exempt from the provisions of section 12(g) of the Act with respect to the following securities:
+Issuers shall be exempt from the provisions of Section 53 of the Securities Act (Ontario) with respect to the following securities:
 
 &ensp; &ensp; *New paragraph (j):*
 
-&ensp; &ensp; (j)  Any Token offered and sold in reliance on Rule 195 of the Securities Act of 1933.
+&ensp; &ensp; (j)  Any Token offered and sold in reliance on 73.8 of the Securities Act of 1933.
 
 
 

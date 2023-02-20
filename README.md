@@ -133,7 +133,7 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 **(i)  Definition of Private Issuer.**  For purposes of Section 73.4 of the Securities Act (Ontario), an “private issuer” includes any person whom offers Tokens for sale in reliance on paragraph (a) of this section.
 
-**(j)  Disqualifications.**  No exemption under this section is available for the Tokens of any Initial Development Team if it or its individual members would be subject to disqualification under Rule 506(d)
+**(j)  Disqualifications.**  No exemption under this section is available for the Tokens of any Initial Development Team if it or its individual members would be considered not suitable for registration under Section 27.
 
 **(k)  Definitions.**
 
@@ -157,15 +157,15 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  has transactions confirmed through an independently verifiable process; and
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  cannot be modified;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  cannot be modified ;
 
 &ensp; &ensp; &ensp; &ensp; (ii)  that is capable of being transferred between persons without an intermediary party; and
 
 &ensp; &ensp; &ensp; &ensp; (iii)  that does not represent a financial interest in a company, partnership, or fund, including an ownership or debt interest, revenue share, entitlement to any interest or dividend payment.
 
-Proposed Exchange Act Rule 3a1-2.  Exemption from the definition of “exchange” under Section 3(a)(1) of the Act.
+Proposed Securities Act (Ontario) Section 21.12.  Exemption from the definition of “exchange” under Section 21 of the Act.
 
-An organization, association, or group of persons shall be exempt from the definition of the term “exchange” to the extent such organization, association, or group of persons constitutes, maintains, or provides a marketplace or facilitates bringing together purchasers and sellers of Tokens satisfying the conditions of Rule 195 of the Securities Act, or otherwise performs with respect to such Tokens the functions commonly performed by a stock exchange as that term is generally understood.
+An organization, association, or group of persons shall be exempt from the definition of the term “exchange” to the extent such organization, association, or group of persons constitutes, maintains, or provides a marketplace or facilitates bringing together purchasers and sellers of Tokens satisfying the conditions of Sectoin 73.8 of the Securities Act (Ontario), or otherwise performs with respect to such Tokens the functions commonly performed by a stock exchange as that term is generally understood, but does not take custody of the Tokens of the purchasers or sellers and does not fit within the definition of a Crypto Contract for purposes of establishing the jurisdiction of securities regulators in Ontario.
 
 **Proposed Exchange Act Rule 3a4-2.  Exemption from the definition of “broker” for a person engaged in a Token transaction.**
 

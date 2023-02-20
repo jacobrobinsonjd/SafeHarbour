@@ -177,7 +177,7 @@ Issuers shall be exempt from the provisions of Section 53 of the Securities Act 
 
 &ensp; &ensp; *New paragraph (j):*
 
-&ensp; &ensp; (j)  Any Token offered and sold in reliance on 73.8 of the Securities Act of 1933.
+&ensp; &ensp; (j)  Any Token offered and sold in reliance on 73.8 of the Securities Act (Ontario).
 
 
 

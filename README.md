@@ -1,9 +1,9 @@
 # SafeHarbour
 Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption for Tokens.
 
-# Proposed Safe Harbour – Time-limited Exemption for Tokens.
+# Proposed Safe Harbour – Time-limited Exemption for Qualifying Distributions of Digital Tokens for Autonomous Networks.
 
-***This potential safe harbour is not a rule, regulation, or statement from any securities regulatory body in Canada.  It cannot be relied on.  It is a personal fork of the Github proposal submitted by Commissioner Peirce (CommissionerPeirce/SafeHarbor2.0:main). This version is forked to suit Canadian securities laws, namely the Securities Act (Ontario). Prior forks (https://github.com/LeXpunK-Army/SafeHarbor2.0) were helpful and used in drafting. 
+***This potential safe harbour is not a rule, regulation, or statement from any securities regulatory body in Canada.  It cannot be relied on.  It is a personal fork of the Github proposal submitted by Commissioner Peirce (CommissionerPeirce/SafeHarbor2.0:main). This version is drafted to suit securities laws in Canada, specifically the Securities Act (Ontario). Prior forks (https://github.com/LeXpunK-Army/SafeHarbor2.0) were helpful and used in drafting. 
 
 ## Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption for Tokens.
 
@@ -13,7 +13,9 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 *However, for a network to mature into a functional or decentralized network that is not dependent upon a single person or group to carry out the essential managerial or entrepreneurial efforts, the Tokens must be distributed to and freely tradeable by potential users, programmers, and participants in the network.  The application of the federal securities laws to the primary distribution of Tokens and secondary transactions frustrates the network’s ability to achieve maturity and prevents Tokens sold as a security from functioning as non-securities on the network. It's a catch-22.* 
 
-*Accordingly, this safe harbour is intended to provide Initial Development Teams with a three-year time period within which they can facilitate participation in, and the continued development of, a functional or decentralized network, exempt from the registration provisions of the federal securities laws so long as certain conditions are met.  The safe harbour is designed to protect Token purchasers by requiring disclosures tailored to the needs of the purchasers and preserving the application of the anti-fraud provisions of the federal securities laws to Token distributions by an Initial Development Team relying on the safe harbor.*
+*Accordingly, this safe harbour is intended to provide Initial Development Teams with a three-year time period within which they can facilitate participation in, and the continued development of, a functional or decentralized network, exempt from the registration provisions of the federal securities laws so long as certain conditions are met.  The safe harbour is designed to protect Token purchasers by requiring disclosures tailored to the needs of the purchasers and preserving the potential application of the anti-fraud provisions of the federal securities laws to Token distributions by an Initial Development Team relying on the safe harbour.*
+
+*This safe harbour also provides a mechanism for developers of Tokens to distribute governance rights to users of the network in recognition of the usage of the network by such users. It is unclear whether such distributions constitute securities offerings to the public. This safe habour allows for exemption from registration for the distribution of governance rights to developers and users of networks through a framework that aligns with the principals of the securities regulatory laws throughout Canada. The safe harbour protect Token purchasers by preserving the application of the secondary market provisions of the various securities laws in Ontario.*
 
 *By the conclusion of the three-year period, the Initial Development Team must determine whether Token transactions involve the offer or sale of a security.  Token transactions may not constitute securities transactions if the network has matured to a functioning or decentralized network.  The definition of Network Maturity is intended to provide clarity as to when a Token transaction should no longer be considered a security transaction but the analysis with respect to any particular network will require an evaluation of the particular facts and circumstances.*
 
@@ -23,29 +25,31 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 &ensp; &ensp; (1)  The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens;
 
-&ensp; &ensp; (2)  Disclosures required under paragraph (b) of this section must be made available on a freely accessible public website.
+&ensp; &ensp; (2)  Disclosures required under paragraph (b) of this section are continuously made available on a freely accessible public website.
 
 &ensp; &ensp; (3)  The Token must be offered and sold for the purpose of facilitating access to, participation on, or the development of the network.
 
-&ensp; &ensp; (4)  The Initial Development Team files a notice of reliance in accordance with paragraph (c) of this section.
+&ensp; &ensp; (4)  The Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons (and all rights, benefits and powers with respect thereto) are not directly or indirectly sold or transferred (except without additional consideration from the initial development team or its members to their respective related persons) for a period of at least 24 months from the date the Initial Development Team files a notice of reliance in accordance with paragraph (c) of this section.
 
-&ensp; &ensp; (5)  An exit report is filed in accordance with paragraph (f) of this section.  
+&ensp; &ensp; (5)  The Initial Development Team files a notice of reliance in accordance with paragraph (c) of this section.
 
-**(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website.  
+&ensp; &ensp; (6)  An exit report is filed in accordance with paragraph (f) of this section.  
 
-&ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbour, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as practicable after the change. 
+**(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website. Such information must be updated within five business days of a material change of such information. Any public updates made to a code repository will be announced through similar means, along with a link to the code repository which contains the change.
 
-&ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  A text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and confirm transactions.
+&ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbour, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as reasonably practicable after the change. 
 
-&ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A description of the steps necessary to independently access, search, and verify the transaction history of the network, such that a non-technical individual could understand the instruction.
+&ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  The complete source code for the network, as well as a text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and confirm transactions. The complete text of the free software licenses pursuant to which such source code is licensed to the public. 
 
-&ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purpose of the network, the protocol, and its operation.  At a minimum, such disclosures must include the following:
+&ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the network, such that a non-technical individual could understand the instruction.
+
+&ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purpose of the network, the Token, the protocol, and its operation.  At a minimum, such disclosures must include the following:
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process, including the number of Tokens to be issued in an initial allocation to certain wallets with an explanation and disclosure of the wallet holders, the total number of Tokens to be created, the release schedule for the Tokens, and the total number of Tokens outstanding;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating or mining Tokens, the process for burning Tokens, the process for validating transactions, and the consensus mechanism;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating, mining, staking, delegating, locking or burning Tokens, the process for validating transactions and the consensus mechanism;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the protocol; 
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the protocol, including a narrative process explain that a non-technical individual could understand the instruction; 
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Sufficient information for a third party to create a tool for verifying the transaction history of the Token (e.g., the blockchain or distributed ledger); and
 
@@ -57,15 +61,17 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 &ensp; &ensp; &ensp; &ensp; (vi)  *Initial Development Team and Certain Token Holders.*  Furnish the following information.
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  The names and relevant experience, qualifications, attributes, and skills of each person who is a member of the Initial Development Team;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  The names and relevant experience, qualifications, attributes, and skills of each person who is a member of the Initial Development Team who directly or indirectly beneficially own or has the right to receive or control 5% or more of the total maximum possible supply of the Tokens;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  The number of Tokens or rights to Tokens owned by each member of the Initial Development Team and a description of any limitations or restrictions on the transferability of Tokens held by such persons; and
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  The number or percentage of Tokens or rights to Tokens owned by each member of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, who satisfies the criteria in paragraph (b)(1)(vi)(A) and a description of any limitations or restrictions on the transferability of Tokens held by such persons; and
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  If any member of the Initial Development Team or Related Person has a right to obtain Tokens in the future, in a manner that is distinct from how any third party could obtain Tokens, identify such person and describe how such Tokens may be obtained.
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  If any member of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, as a right to obtain Tokens in the future, in a manner that is distinct from how any third party could obtain Tokens, identify such person and describe how such Tokens may be obtained.
+
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Copies of all material agreements between or among any one or more of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, which relate in any material respect to the network or Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (vii)  *Trading Platforms.*  Identify secondary trading platforms on which the Token trades, to the extent known.
 
-&ensp; &ensp; &ensp; &ensp; (viii)  *Sales of Tokens by Initial Development Team.*  Each time a member of the Initial Development Team sells five percent of his or her Tokens as disclosed pursuant to paragraph (b)(1)(vi)(B) of this section over any period of time, state the date(s) of the sale, the number of Tokens sold, and the identity of the seller.   
+&ensp; &ensp; &ensp; &ensp; (viii)  *Sales of Tokens by Initial Development Team.*  Each time a member of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, who satisfies the criteria in paragraph (b)(1)(vi)(A), sells five percent of his or her Tokens as disclosed pursuant to paragraph (b)(1)(vi)(B) of this section over any period of time, state the date(s) of the sale, the number of Tokens sold, and the identity of the seller.   
 
 &ensp; &ensp; &ensp; &ensp; (ix)  *Related Person Transactions.*  A description of any material transaction, or any proposed material transaction, in which the Initial Development Team is a participant and in which any Related Person had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the Related Person, the basis on which the person is a Related Person, and the approximate value of the amount involved in the transaction.  
 
@@ -77,9 +83,9 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption fo
 
 &ensp; &ensp; (1)  The notice of reliance must contain the following information:
 
-&ensp; &ensp; &ensp; &ensp; (i)  The name of each individual on the Initial Development Team;
+&ensp; &ensp; &ensp; &ensp; (i)  The name of each individual on the Initial Development Team who satisfies the criteria in Section (b)(1)(vi)(A); 
 
-&ensp; &ensp; &ensp; &ensp; (ii)  Attestation by a person duly authorized by the Initial Development Team that the conditions of this section are satisfied; and
+&ensp; &ensp; &ensp; &ensp; (ii)  Attestation by a member of the Initial Development Team who satisfies the criteria in Section (b)(1)(vi)(A) that the conditions of this section are satisfied; and
 
 &ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph (b) may be accessed.
 

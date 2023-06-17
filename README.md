@@ -1,11 +1,11 @@
 # SafeHarbour
-Potential Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption for Tokens.
+Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Tokens.
 
-# Proposed Safe Harbour – Time-limited Exemption for Qualifying Distributions of Digital Tokens for Autonomous Networks.
+# Proposed Safe Harbour – Exemption for Qualifying Distributions of Digital Tokens for Autonomous Networks.
 
-***This potential safe harbour is not a rule, regulation, or statement from any securities regulatory body in Canada.  It cannot be relied on.  It is a personal fork of the Github proposal submitted by Commissioner Peirce (CommissionerPeirce/SafeHarbor2.0:main). This version is drafted to suit securities laws in Canada, specifically the Securities Act (Ontario). Prior forks (https://github.com/LeXpunK-Army/SafeHarbor2.0) were helpful and used in drafting. 
+***This potential safe harbour is not a rule, regulation, or statement from any securities regulatory body in Canada.  It cannot be relied on.  It is a personal fork of the Github proposal submitted by Commissioner Peirce (CommissionerPeirce/SafeHarbor2.0:main). This version is drafted to suit securities laws in Canada, specifically the Securities Act (Ontario). Prior forks (such as https://github.com/LeXpunK-Army/SafeHarbor2.0) were helpful and used in drafting. 
 
-## Proposed Securities Act (Ontario) Rule 73.8. Time-limited exemption for Tokens.
+## Proposed Securities Act (Ontario) Rule 73.8. Exemption for Qualifying Tokens.
 
 ***Preliminary Notes:***
 

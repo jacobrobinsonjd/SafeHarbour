@@ -19,7 +19,7 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Tokens.
 
 *It is unlikely, but unclear, whether any secondary sales implicate provincial securities law. This Proposal allows for exemption from provincial securities laws for developers and users of networks through a framework that aligns with the principals of the securities regulatory laws throughout Canada.*
 
-*[NTD: Unsure if necessary] By the conclusion of the three-year period, the Initial Development Team must determine whether the value of the Token is tied to efforts of the Initial Development Team, or if secondary Token transactions are related more to the community and network established. Secondary Token transactions may not constitute securities transactions if purchasers are not buying for purely profit-seeking, investment motives based on the work of the Initial Development Team. The definition of Network Maturity is intended to provide clarity as to when any usefulness of a Token should no longer be considered due to the efforts of the Initial Development Team, but the analysis with respect to any particular network will require an evaluation of the particular facts and circumstances.*
+*[NTD: Unsure if necessary] The definition of Network Maturity is intended to provide clarity as to when the Initial Development Team is no longer required to develop the network, but the analysis with respect to any particular network will require an evaluation of the particular facts and circumstances.*
 
 2.  *Rule 73.8 is not an exclusive safe harbour. A person who does not meet all of the applicable conditions of Rule 73.8 still may claim any other available exemption under the Securities Act (Ontario)for the offer and sale of Tokens.*
 

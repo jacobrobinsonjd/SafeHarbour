@@ -25,11 +25,11 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Qualifying 
 
 **(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act (Ontario) does not apply to any initial issuance, or secondary offer, sale, or transaction involving a Token if the following conditions are satisfied [by the Initial Development Team], as defined herein.
 
-&ensp; &ensp; (1)  The Token is only created in the first instance through some manner of participation in the network, except for the transfer of funds from a purchaser. The Initial Development Team cannot sell, hold back or allocate Tokens, and all Tokens must be created in the first instance through a fair launch process which enables anyone to participate in the network.
+&ensp; &ensp; (1)  The Token is only created in the first instance through some manner of participation in the network, except for the transfer of funds from a purchaser. For clarity, the Initial Development Team cannot sell, hold back or allocate Tokens, and all Tokens must be created in the first instance through a fair launch process which enables anyone to participate in the network.
 
 &ensp; &ensp; (2)  Disclosures required under paragraph (b) of this section are continuously made available on a freely accessible public website.
 
-&ensp; &ensp; (3)  The Token must be created for the purpose of facilitating access to, participation on, or the development of the network.
+&ensp; &ensp; (3)  The network must be launched in a manner whereby individuals not part of the Initial Development Team are freely able to participate, provided they have the required software and hardware. The Token must be created for the purpose of facilitating access to, participation on, or the development of the network.
 
 &ensp; &ensp; (4)  Any upgrades to the network by Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons (and all rights, benefits and powers with respect thereto) are disclosed on a publicly accessible website.
 

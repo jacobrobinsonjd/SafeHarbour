@@ -1,4 +1,4 @@
-# SafeShore
+# SafeShores
 Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Tokens.
 
 # Proposed Safe Shores – Exemption for Qualifying Distributions of Digital Tokens for Autonomous Networks.

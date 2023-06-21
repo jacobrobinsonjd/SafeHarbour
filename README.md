@@ -1,5 +1,5 @@
 # ~~Safe Harbour~~Safe Shores
-Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Tokens.
+Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Qualifying Tokens.
 
 # Proposed Safe Shores – Exemption for Qualifying Distributions of Digital Tokens for Autonomous Networks.
 
@@ -21,9 +21,9 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Tokens.
 
 *[NTD: Unsure if necessary] The definition of Network Maturity is intended to provide clarity as to when the Initial Development Team is no longer required to develop the network, but the analysis with respect to any particular network will require an evaluation of the particular facts and circumstances.*
 
-2.  *Rule 73.8 is not an exclusive safe harbour. A person who does not meet all of the applicable conditions of Rule 73.8 still may claim any other available exemption under the Securities Act (Ontario)for the offer and sale of Tokens.*
+2.  *Rule 73.8 is not an exclusive safe harbour. A person who does not meet all of the applicable conditions of Rule 73.8 still may claim any other available exemption under the Securities Act (Ontario) for the offer and sale of Tokens, provided they qualify.*
 
-**(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act (Ontario) does not apply to any issuance, offer, sale, or transaction involving a Token if the following conditions are satisfied [by the Initial Development Team], as defined herein.
+**(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act (Ontario) does not apply to any initial issuance, or secondary offer, sale, or transaction involving a Token if the following conditions are satisfied [by the Initial Development Team], as defined herein.
 
 &ensp; &ensp; (1)  The Token is only created in the first instance through some manner of participation in the network, except for the transfer of funds from a purchaser. The Initial Development Team cannot sell, hold back or allocate Tokens, and all Tokens must be created in the first instance through a fair launch process which enables anyone to participate in the network.
 
@@ -31,9 +31,9 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Tokens.
 
 &ensp; &ensp; (3)  The Token must be created for the purpose of facilitating access to, participation on, or the development of the network.
 
-&ensp; &ensp; (4)  Any upgrades to the network by Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons (and all rights, benefits and powers with respect thereto) are disclosed on the publicly accessible website during the three year period.
+&ensp; &ensp; (4)  Any upgrades to the network by Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons (and all rights, benefits and powers with respect thereto) are disclosed on a publicly accessible website.
 
-&ensp; &ensp; (5)  The Initial Development Team files a notice of reliance in accordance with paragraph (c) of this section.
+&ensp; &ensp; (5)  The Initial Development Team files a notice of reliance in accordance with paragraph (c) of this section and abides by the requirements in Rule 73.8.
 
 &ensp; &ensp; (6)  An exit report is filed in accordance with paragraph (f) of this section.  
 

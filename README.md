@@ -35,13 +35,15 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Qualifying 
 
 &ensp; &ensp; (5)  The Initial Development Team files a notice of reliance in accordance with paragraph (c) of this section and abides by the requirements in Rule 73.8.
 
-&ensp; &ensp; (6)  An exit report is filed in accordance with paragraph (f) of this section.  
+&ensp; &ensp; (6)  No person, including but not limited to members of the Initial Development Team, shall have a right to obtain Tokens in a manner that is distinct from how any third party could obtain Tokens. 
+
+&ensp; &ensp; (7)  An exit report is filed in accordance with paragraph (f) of this section.  
 
 **(b)  Disclosure.**  The Initial Development Team must provide the information described below on a freely accessible public website. Such information must be updated within five business days of a material change. Any public updates made to a code repository will be announced through similar means, along with a link to the code repository which contains the change.
 
 &ensp; &ensp; (1)  *Initial Disclosures.*  Prior to filing a notice of reliance on the safe harbour, provide the following information.  Any material changes to the information required below must be provided on the same freely accessible public website as soon as reasonably practicable after the change. 
 
-&ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  The complete source code for the network, as well as a text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and confirm transactions. The complete text of the free software licenses pursuant to which such source code is licensed to the public. 
+&ensp; &ensp; &ensp; &ensp; (i)  *Source Code.*  The complete source code for the network, as well as a text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and effect transactions. The complete text of the free software licenses pursuant to which such source code is licensed to the public. 
 
 &ensp; &ensp; &ensp; &ensp; (ii)  *Transaction History.*  A narrative description of the steps necessary to independently access, search, and verify the transaction history of the network, such that a non-technical individual could understand the instruction.
 
@@ -51,17 +53,14 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Qualifying 
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating, mining, staking, delegating, locking, burning or otherwise creating or reducing of Tokens, the process for validating transactions and the consensus mechanism;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the protocol, including a narrative process walk-through that a non-technical individual could understand; and
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  An explanation of governance mechanisms for implementing changes to the protocol, including a narrative process walk-through that explains how changes can be affected in a manner that a non-technical individual could understand; and
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Sufficient information for a third party to create a tool for verifying the transaction history of the Token (e.g., the blockchain or distributed ledger).
-
-&ensp; &ensp; &ensp; &ensp; (iv)  *Related Equity Raise.*  The type and amount of consideration received by the Initial Development Team prior to the fair launch of the Token, if any, to build the Token and underlying network.
+&ensp; &ensp; &ensp; &ensp; (iv)  *Related Equity Raise.*  The type and amount of consideration received by the Initial Development Team prior to the fair launch of the Token, if any, to build the Token and underlying network in a separate equity raise, not associated with the Token issuance.
 
 &ensp; &ensp; &ensp; &ensp; (vi)  *Initial Development Team and Certain Token Holders.*  Furnish the following information.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  The names and relevant experience, qualifications, attributes, and skills of each person who is a member of the Initial Development Team [NTD: criminal background or history related to securities fraud disclosed? Any prior allegations relating to securities regulations in Canada?];
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  The number or percentage of Tokens or rights to Tokens owned by each member of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, who satisfies the criteria in paragraph (b)(1)(vi)(A) and a description of any limitations or restrictions on the transferability of Tokens held by such persons; and
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  If any member of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, as a right to obtain Tokens in the future, in a manner that is distinct from how any third party could obtain Tokens, identify such person and describe how such Tokens may be obtained.
 

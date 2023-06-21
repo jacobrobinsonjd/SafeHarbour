@@ -49,7 +49,7 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Qualifying 
 
 &ensp; &ensp; &ensp; &ensp; (iii)  *Token Economics.*  A narrative description of the purpose of the network, the Token, the protocol, and its operation.  At a minimum, such disclosures must include the following:
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process, including the total number of Tokens possible to be created at launch, mechanisms for changing the total number of Tokens to be created, the mechanism for issuing Tokens, the release schedule for the Tokens, and the total number of Tokens outstanding;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  Information explaining the launch and supply process, including the total number of Tokens possible to be created by the network through the code, mechanisms for changing the total number of Tokens to be created, the mechanism for issuing Tokens, the release schedule for the Tokens, and the total number of Tokens outstanding;
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Information detailing the method of generating, mining, staking, delegating, locking, burning or otherwise creating or reducing of Tokens, the process for validating transactions and the consensus mechanism;
 
@@ -59,24 +59,21 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Qualifying 
 
 &ensp; &ensp; &ensp; &ensp; (vi)  *Initial Development Team and Certain Token Holders.*  Furnish the following information.
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  The names and relevant experience, qualifications, attributes, and skills of each person who is a member of the Initial Development Team [NTD: criminal background or history related to securities fraud disclosed? Any prior allegations relating to securities regulations in Canada?];
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (A)  The names and relevant experience, qualifications, attributes, and skills of each person who is a member of the Initial Development Team [NTD: criminal background or history related to securities fraud disclosed? Any prior allegations relating to securities regulations in Canada?]; and
 
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (B)  Copies of all material agreements between or among any one or more of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, which relate in any material respect to the network or Tokens.
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (C)  If any member of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, as a right to obtain Tokens in the future, in a manner that is distinct from how any third party could obtain Tokens, identify such person and describe how such Tokens may be obtained.
+&ensp; &ensp; &ensp; &ensp; (vii)  *Trading Platforms.*  Identify secondary trading platforms on which the Token trades, to the extent known, and disclose any efforts made by the Initial Development Team to have the Token listed on any secondary trading platform.
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Copies of all material agreements between or among any one or more of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, which relate in any material respect to the network or Tokens.
-
-&ensp; &ensp; &ensp; &ensp; (vii)  *Trading Platforms.*  Identify secondary trading platforms on which the Token trades, to the extent known.
-
-&ensp; &ensp; &ensp; &ensp; (viii)  *Sales of Tokens by Initial Development Team.*  Each time a member of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, who satisfies the criteria in paragraph (b)(1)(vi)(A), sells five percent of his or her Tokens as disclosed pursuant to paragraph (b)(1)(vi)(B) of this section over any period of time, state the date(s) of the sale, the number of Tokens sold, and the identity of the seller.   
+&ensp; &ensp; &ensp; &ensp; (viii)  *Sales of Tokens by Initial Development Team.*  Each time a member of the Initial Development Team, its members, and, to the extent known by the Initial Development Team, any related persons, sells or otherwise disposes of Tokens which amount of 5% of the Tokens in circulation, state the date(s) of the sale, the number of Tokens sold, and the identity of the seller.   
 
 &ensp; &ensp; &ensp; &ensp; (ix)  *Related Person Transactions.*  A description of any material transaction, or any proposed material transaction, in which the Initial Development Team is a participant and in which any Related Person had or will have a direct or indirect material interest.  The description should identify the nature of the transaction, the Related Person, the basis on which the person is a Related Person, and the approximate value of the amount involved in the transaction.  
 
-&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Token Purchasers.*  A statement that the purchase of Tokens involves a high degree of risk and the potential loss of the entire investment.  
+&ensp; &ensp; &ensp; &ensp; (x)  *Warning to Potential Token Purchasers.*  A statement that any secondary purchase of Tokens involves a high degree of risk and the potential loss of the entire investment, and that the Initial Development Team is not responsible for any future development of the network. 
 
 &ensp; &ensp; (2)  *Semiannual Disclosures.*  Every six months following the date of filing the notice of reliance, pursuant to paragraph (c) of this section, until the end of the three-year period or a determination that Network Maturity has been reached, whichever occurs first, provide updated information required by paragraph (b)(1)(iv) of this section as of the end of the six-month period.  These updates must be made within 30 calendar days after the end of the semiannual period.  
 
- **(c)  Filing of Notice of Reliance.**  The Initial Development Team must file a notice of reliance on the safe harbour prior to the date of the first Token sold in reliance on the safe harbour.
+ **(c)  Filing of Notice of Reliance.**  The Initial Development Team must file a notice of reliance on the safe harbour prior to the date of the first Token issued on the network.
 
 &ensp; &ensp; (1)  The notice of reliance must contain the following information:
 

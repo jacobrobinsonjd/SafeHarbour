@@ -5,7 +5,7 @@ Potential Proposed Securities Act (Ontario) Rule 73.8. Exemption for Qualifying 
 
 ***This draft is not a rule, regulation, or statement from any securities regulatory body in Canada, or anywhere else. It cannot be relied on.  It is a personal fork of the Github proposal submitted by Commissioner Peirce (CommissionerPeirce/SafeHarbor2.0:main). This version is drafted to suit securities laws in Canada, specifically the Securities Act (Ontario). Prior forks (such as https://github.com/LeXpunK-Army/SafeHarbor2.0) were helpful and used in drafting, as was commentary from thought leaders in the digital asset space. MiCA offered a helpful guideline for potential disclosure rules. Particularly grateful for Preston Byrne's critical analysis of Commissioner Peirce's proposed Safe Harbor, from which this proposal was inspired. 
 
-This Safe Harbour differs from other proposals in two primary aspects: 1) there is not time-limitation for the exemption granted and 2) it is only available to projects where tokens are not sold in the first instance, but are earned by participants in the network. 
+**This Safe Harbour differs from other proposals in two primary aspects: 1) there is not time-limitation for the exemption granted and 2) it is only available to projects where tokens are not sold in the first instance, but are earned by participants in the network. 
 
 ## Proposed Securities Act (Ontario) Rule 73.8. Exemption for Qualifying Tokens.
 
